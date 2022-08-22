@@ -1,4 +1,4 @@
-package projects.P03_UcusProjesi;
+package proje_Ucus;
 
 import java.util.Scanner;
 

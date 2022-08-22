@@ -1,4 +1,4 @@
-package projects.P03_UcusProjesi;
+package proje_Ucus;
 
 public class Yolcu {
 
@@ -8,6 +8,7 @@ public class Yolcu {
     String flytype;
 
     public Yolcu(String city) {
+
         this.city = city;
     }
 

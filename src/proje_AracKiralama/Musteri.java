@@ -1,4 +1,4 @@
-package Arac_Kiralama;
+package proje_AracKiralama;
   /*
    String alinacakSehir;
    String alinacakGun; (MM,dd--> ay gun formatında olmalı)

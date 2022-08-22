@@ -1,4 +1,4 @@
-package Arac_Kiralama;
+package proje_AracKiralama;
 
    /*
     String marka; (liste araclari --> opel toyota volvo)

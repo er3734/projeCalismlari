@@ -65,7 +65,7 @@ public class Yonetici {
     }
 
     public static void cikis() {
-        System.out.println("hayırlı gunler");
+        System.out.println("Bizi tercih ettiğiniz için iyi gunler dileriz");
     }
 
     public static void kanalSil() {

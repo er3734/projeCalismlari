@@ -1,4 +1,4 @@
-package Arac_Kiralama;
+package proje_AracKiralama;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -56,8 +56,11 @@ musterinin ad, soyad, yas, telefon, id  ve kredi kartı bilgileri ile
 	}
 	
 	private static void aracKiralama(int aracNo2) {
+
 		System.out.println("Kiralamak istediginiz aracin aracNosunu giriniz");
+		System.out.println(aracListesi);
 		int no=scan.nextInt();
+
 		for (AracDepo each : aracListesi) {
 			if (each.getAracNo()==no) {
 				System.out.println("Kiralamak istediiniz arac " + aracListesi.get(no-100));	
